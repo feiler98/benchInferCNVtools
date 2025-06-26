@@ -1,4 +1,8 @@
 pandas
 numpy
+anndata
+scanpy
 infercnvpy
-
+rpy2
+matplotlib
+seaborn
